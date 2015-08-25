@@ -35,5 +35,4 @@
 # ⇧ : Shift key
 'atom-text-editor':
   'cmd-i': 'editor:auto-indent'
-'atom-text-editor':
   'cmd-k': 'editor:cut-to-end-of-line'
