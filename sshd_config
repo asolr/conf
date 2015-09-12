@@ -1,0 +1,11 @@
+# NOTE THIS IS A PARTIAL (CUT) FILE
+
+Port 22
+Port 2222
+#Port 26
+#AddressFamily any
+#ListenAddress 0.0.0.0
+#ListenAddress ::
+
+# The default requires explicit activation of protocol 1
+Protocol 2
