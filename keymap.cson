@@ -37,3 +37,4 @@
   'cmd-i': 'editor:auto-indent'
   'cmd-k': 'editor:cut-to-end-of-line'
   'ctrl-i': 'editor:auto-indent'
+  'cmd-alt-l': 'editor:auto-indent'
